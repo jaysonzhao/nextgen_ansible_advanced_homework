@@ -1,7 +1,7 @@
 export TOWER_GUID=7c7a
 export OSP_GUID=c73e
 export OSP_DOMAIN=dynamic.opentlc.com
-export OPENTLC_ID=gegeneric_apac_haozhao
+export OPENTLC_ID=generic_apac_haozhao
 export MAIL_ID=haozhao@redhat.com
 export OPENTLC_PASSWORD=
 export GITHUB_REPO=https://github.com/jaysonzhao/nextgen_ansible_advanced_homework.git
